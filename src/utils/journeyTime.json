@@ -1,0 +1,82 @@
+[
+    {
+        "node1":"bangalore",
+        "node2":"chennai",
+        "timeCost":"14"
+    },
+    {
+        "node1":"bangalore",
+        "node2":"pondicherry",
+        "timeCost":"14"
+    },
+    {
+        "node1":"chennai",
+        "node2":"pondicherry",
+        "timeCost":"6"
+    },
+    {
+        "node1":"delhi",
+        "node2":"meerut",
+        "timeCost":"4"
+    },
+    {
+        "node1":"mumbai",
+        "node2":"pune",
+        "timeCost":"7"
+    },
+    {
+        "node1":"hubballi",
+        "node2":"pune",
+        "timeCost":"14"
+    },
+    {
+        "node1":"muzaffarnagar",
+        "node2":"meerut",
+        "timeCost":"2"
+    },
+    {
+        "node1":"muzaffarnagar",
+        "node2":"delhi",
+        "timeCost":"5"
+    },
+    {
+        "node1":"mysore",
+        "node2":"salem",
+        "timeCost":"10"
+    },
+    {
+        "node1": "mysore",
+        "node2": "bangalore",
+        "timeCost": "6"
+    },
+    {
+        "node1": "salem",
+        "node2": "bangalore",
+        "timeCost": "7"
+    },
+    {
+        "node1": "salem",
+        "node2": "pondicherry",
+        "timeCost": "8"
+    },
+    {
+        "node1": "hubballi",
+        "node2": "bangalore",
+        "timeCost": "13"
+    },
+    {
+        "node1": "vijayapura",
+        "node2": "bangalore",
+        "timeCost": "18"
+    },
+    {
+        "node1": "vijayapura",
+        "node2": "hubballi",
+        "timeCost": "8"
+    },
+    {
+        "node1": "vijayapura",
+        "node2": "pune",
+        "timeCost": "12"
+    }
+]

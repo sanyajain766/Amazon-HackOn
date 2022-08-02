@@ -1,0 +1,86 @@
+[
+    {
+        "origin":"bangalore",
+        "destination":"chennai",
+        "flight":"VT-BDN",
+        "departure":[7, 34],
+        "travel":[0, 37]
+    },
+    {
+        "origin":"bangalore",
+        "destination":"delhi",
+        "flight":"VT-BDQ",
+        "departure":[0, 36],
+        "travel":[2, 17]
+    },
+    {
+        "origin":"bangalore",
+        "destination":"mumbai",
+        "flight":"VT-BDQ",
+        "departure":[9, 11],
+        "travel":[1, 14]
+    },
+    {
+        "origin":"bangalore",
+        "destination":"mumbai",
+        "flight":"BDA-102",
+        "departure":[1, 0],
+        "travel":[0, 56]
+    },
+    {
+        "origin":"chennai",
+        "destination":"bangalore",
+        "flight":"BDA-102",
+        "departure":[23, 43],
+        "travel":[0, 13]
+    },
+    {
+        "origin":"delhi",
+        "destination":"bangalore",
+        "flight":"BDA-403A",
+        "departure":[16, 1],
+        "travel":[2, 11]
+    },
+    {
+        "origin":"delhi",
+        "destination":"bangalore",
+        "flight":"BDA-403",
+        "departure":[4, 9],
+        "travel":[2, 14]
+    },
+    {
+        "origin":"delhi",
+        "destination":"mumbai",
+        "flight":"BDA-401",
+        "departure":[7, 47],
+        "travel":[1, 36]
+    },
+    {
+        "origin":"delhi",
+        "destination":"mumbai",
+        "flight":"BDA-201",
+        "departure":[2, 8],
+        "travel":[1, 57]
+    },
+    {
+        "origin":"mumbai",
+        "destination":"bangalore",
+        "flight":"BDA-201",
+        "departure":[5, 24],
+        "travel":[1, 13]
+    },
+    {
+        "origin":"mumbai",
+        "destination":"delhi",
+        "flight":"BDA-102A",
+        "departure":[12, 21],
+        "travel":[1, 32]
+    },
+    {
+        "origin":"mumbai",
+        "destination":"delhi",
+        "flight":"VT-BDO",
+        "departure":[3, 30],
+        "travel":[1, 23]
+    }
+]

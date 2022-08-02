@@ -1,0 +1,20 @@
+{
+    "bigports":[
+        "bangalore",
+        "delhi",
+        "mumbai"
+    ],
+    "smallports":[
+        "chennai"
+    ],
+    "fulfillments":[
+        "bangalore",
+        "chennai",
+        "delhi",
+        "meerut",
+        "mumbai",
+        "pondicherry",
+        "pune",
+        "salem"
+    ]
+}
